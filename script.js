@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function() {
     }
   }
 
-  setupTypingEffect(".nav-typing-effect", ["Welcome...", "Hello!", "नमस्ते!", "Vijaysing Dobhal"]);
+  setupTypingEffect(".nav-typing-effect", ["Welcome...", "Hello!", "नमस्ते!", "Vijay Dobhal"]);
   setupTypingEffect(".typing-text", ["Flutter Developer", "Mobile App Enthusiast", "Problem Solver"]);
 
   VanillaTilt.init(document.querySelectorAll("[data-tilt]"), {
